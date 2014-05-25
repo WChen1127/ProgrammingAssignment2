@@ -1,8 +1,10 @@
-## My assignment here is to write a pair of functions that cache the 
-## inverse of a matrix.
+# makeCacheMatrix(), cacheSolve()
 
-## This function creates a special "matrix" object that can cache 
-## its inverse.
+# My codes here are to write a pair of functions that cache the 
+# inverse of a matrix.
+
+# This function creates a special "matrix" object that can cache 
+# its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
   s <- NULL
